@@ -1,7 +1,8 @@
 <img src="Brownie%20Fund%20Me%20aa8ab6a55308470182e8349a0ff8e559/main.png" />
+
 # Brownie Fund Me
 
-In this session we will deploy our fund me contract on etherium network with brownie
+In this session we will deploy our fund me contract on etherium network with Brownie
 
 ### What we have to do in order to download our chainlink packages in our project ?
 
